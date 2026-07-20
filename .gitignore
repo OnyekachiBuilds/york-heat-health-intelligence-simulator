@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Streamlit cache
+.streamlit/
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Local working backups
+*_working_backup.py
+
+# Original source GeoPackage, retained locally
+data/york_heat_health.gpkg
