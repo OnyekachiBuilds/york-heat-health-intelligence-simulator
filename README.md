@@ -6,6 +6,54 @@ An interactive geospatial decision-support system for exploring how heatwave con
 
 
 
+\## Live Applications
+
+
+
+\### Interactive Heat–Health Intelligence Simulator
+
+Explore heatwave and urban greening scenarios, neighbourhood vulnerability changes, class transitions, priority areas and recommended actions.
+
+
+
+\*\*Live app:\*\*  
+
+https://york-heat-health-intelligence.streamlit.app/
+
+
+
+\### Animated Heatwave Scenario
+
+Watch York neighbourhood heat–health vulnerability evolve from baseline through +1°C, +2°C, +3°C, +4°C and +5°C heatwave scenarios.
+
+
+
+\*\*Live animation:\*\*  
+
+https://york-heat-health-animation.streamlit.app/
+
+
+
+\### Heatwave Adaptation Comparison
+
+Compare the same escalating heatwave scenario side by side:
+
+
+
+\*\*Heatwave Only vs Heatwave + 30% Urban Greening\*\*
+
+
+
+\*\*Live comparison:\*\*  
+
+https://york-heat-health-adaptation.streamlit.app/
+
+
+
+\---
+
+
+
 \## Project Overview
 
 
